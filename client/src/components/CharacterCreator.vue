@@ -21,7 +21,7 @@
         name: 'CharacterCreator',
         data: function() {
             return {
-                name: "",
+                name: "dom",
                 profession: ""
             }
         }
